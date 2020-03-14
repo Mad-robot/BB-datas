@@ -23,7 +23,7 @@ Registration: **public**
 Researchers: **?**  
 Programs: **?**  
 Visibility: **public, private**  
-Public disclosure: **no**  
+Public disclosure: **yes**  
 Reputation (kudos): **based on reports criticity**  
 Additional metrics: **accuracy**  
 Payout methods: **Paypal, Payoneer**  
